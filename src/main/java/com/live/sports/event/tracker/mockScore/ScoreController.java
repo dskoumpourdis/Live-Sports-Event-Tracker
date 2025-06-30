@@ -1,4 +1,4 @@
-package com.live.sports.event.tracker.MockScore;
+package com.live.sports.event.tracker.mockScore;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

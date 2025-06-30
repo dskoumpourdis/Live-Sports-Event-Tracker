@@ -1,4 +1,4 @@
-package com.live.sports.event.tracker.MockScore;
+package com.live.sports.event.tracker.mockScore;
 
 import lombok.RequiredArgsConstructor;
 import lombok.Value;
@@ -6,6 +6,6 @@ import lombok.Value;
 @Value
 @RequiredArgsConstructor
 public class ScoreResponse {
-    private String eventId;
-    private String currentScore;
+    String eventId;
+    String currentScore;
 }

@@ -1,4 +1,4 @@
-package com.live.sports.event.tracker.MockScore;
+package com.live.sports.event.tracker.mockScore;
 
 import static org.mockito.Mockito.when;
 
